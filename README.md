@@ -30,7 +30,7 @@ python3 main.py
 
 ## Authors
 
-[Udit Gulati](http://github.com/Uditgulati), [Amit Yadav](https://github.com/amityadav0).
+[Udit Gulati], [Amit Yadav].
 
 ## Contributing
 
