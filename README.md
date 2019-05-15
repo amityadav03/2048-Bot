@@ -6,8 +6,6 @@ A python based bot that plays 2048 game and is based on expectimax Algorithm and
 
 ```
 
-git clone https://github.com/Uditgulati/2048-Bot.git
-
 cd 2048-Bot
 
 pip3 install -r requirements.txt
